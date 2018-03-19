@@ -1,3 +1,3 @@
 # hello-world
 
-This is my start-up project for GutHub.
+This is my start-up project for GitHub.
