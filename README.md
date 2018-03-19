@@ -1,2 +1,3 @@
 # hello-world
-starting up project
+
+This is my start-up project for GutHub.
